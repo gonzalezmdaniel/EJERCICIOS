@@ -1,0 +1,12 @@
+body {
+    margin: 0.5rem;
+    padding: 0;
+  }
+
+  #imagen1{
+    width: 96%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
